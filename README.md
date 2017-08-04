@@ -1,10 +1,10 @@
-#Welcome To Your Own Video Streamer!
+# Welcome To Your Own Video Streamer!
 You will be creating an online video streamer
 
-##Before you begin
+## Before you begin
 Please whiteboard or draw your website and have it approved by an instructor :)
 
-##Set-up your files
+## Set-up your files
 Please create the following files:
 - index.html
 - styles.css
@@ -12,7 +12,7 @@ Please create the following files:
 
 Create a link tag for your CSS stylesheet in your html document. Conduct a Sanity Check for your CSS and have it approved by an instructor.
 
-##HTML
+## HTML
 1. Create a header containing the name of your vided streamer using a **header** tag.
 
 2. Create a container for all of your videos using a **div** tag and set the value of the id attribute to `container`
@@ -24,7 +24,7 @@ Create a link tag for your CSS stylesheet in your html document. Conduct a Sanit
   - Create a thumbnail for each video using an **image** tag and set the value of the class attribute to `thumbnail`.
   - Create a description for each video using either a **paragraph** tag that includes who it is by, when the video was posted, and how many views it recieved so far
 
-##CSS
+## CSS
 1. Set the background image of the body using the `element` selector.
 
 2. Change the background color of the container using the `id` selector.
