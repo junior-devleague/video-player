@@ -1,5 +1,5 @@
 # Welcome To Your Own Video Streamer!
-You will be creating an online video streamer
+You will be creating an online video streamer with basic HTML and CSS
 
 ## Before you begin
 Please whiteboard or draw your website and have it approved by an instructor :)
